@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="flag_id">
+        <item>@drawable/hong_kong_round_icon_256</item>
+        <item>@drawable/china_round_icon_256</item>
+        <item>@drawable/republic_of_china_round_icon_256</item>
+        <item>@drawable/england_round_icon_256</item>
+        <item>@drawable/france_round_icon_256</item>
+        <item>@drawable/united_states_of_america_round_icon_256</item>
+    </array>
+    <string-array name="drawer_string">
+        <item>Hong Kong</item>
+        <item>Beijing</item>
+        <item>Taipei</item>
+        <item>London</item>
+        <item>Paris</item>
+        <item>New York</item>
+    </string-array>
+
+    <string-array name="woeid">
+        <item>2165352</item>
+        <item>2151330</item>
+        <item>2306179</item>
+        <item>44418</item>
+        <item>615702</item>
+        <item>2459115</item>
+    </string-array>
+</resources>
